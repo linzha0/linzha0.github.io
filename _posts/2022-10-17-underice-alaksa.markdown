@@ -4,8 +4,10 @@ title:  "Towards Under-ice Sensing using a Portable ROV"
 date:   2022-10-17 10:10:10 +00:00
 image: /images/OCEANS2022_sync.png
 categories: research
-author: "Lin Zhao"
-authors: "<strong>Lin Zhao</strong>, Mingxi Zhou, Brice Loose"
+authors: 
+  <strong>Lin Zhao</strong>, 
+  <a href="https://soslab.wordpress.com/">Mingxi Zhou</a>, 
+  <a href="https://web.uri.edu/gso/meet/brice-loose/">Brice Loose</a>
 venue: "OCEANS"
 honer: <font color="red"><strong>(Student Poster Competition Finalist)</strong></font> 
 paper: /pdfs/zhao_alaska_2022.pdf
