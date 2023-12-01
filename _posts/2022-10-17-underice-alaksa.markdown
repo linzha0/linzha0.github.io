@@ -2,7 +2,7 @@
 layout: post
 title:  "Towards Under-ice Sensing using a Portable ROV"
 date:   2022-10-17 10:10:10 +00:00
-image: /images/OCEANS2022_alaska.png
+image: /images/OCEANS2022_sync.png
 categories: research
 author: "Lin Zhao"
 authors: "<strong>Lin Zhao</strong>, Mingxi Zhou, Brice Loose"
