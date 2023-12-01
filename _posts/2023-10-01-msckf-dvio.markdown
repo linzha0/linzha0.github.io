@@ -6,7 +6,7 @@ image: /images/IROS2023_msckf-dvio.gif
 categories: research
 author: "Lin Zhao"
 authors: "<strong>Lin Zhao</strong>, Mingxi Zhou, Brice Loose"
-venue: "International Conference on Intelligent Robots and Systems (IROS)"
+venue: "IROS"
 paper: /pdfs/zhao_msckf-dvio_2023.pdf
 code: https://github.com/GSO-soslab/msckf_dvio
 poster: /posters/2023_IROS_MSCKF-DVIO.pptx
