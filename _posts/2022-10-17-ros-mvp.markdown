@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Working toward the development of a generic marine vehicle framework: ROS-MVP"
+date:   2022-10-17 10:10:10 +00:00
+image: /images/OCEANS2022_mvp.pdf
+categories: research
+authors: "Emir Cem Gezer, Mingxi Zhou, <strong>Lin Zhao</strong>, William McConnell"
+venue: "OCEANS"
+paper: /pdfs/gezer_mvp_2022.pdf
+code: https://github.com/uri-ocean-robotics/mvp_mission
+---
+The ROS-MVP framework provides three sub-modules: a low-level controller, plugin-based behavior interface, and a mission planner.
