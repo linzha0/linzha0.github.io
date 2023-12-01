@@ -2,7 +2,7 @@
 layout: post
 title:  "Tightly-coupled Visual-DVL-Inertial Odometry for Robot-based Ice-water Boundary Exploration"
 date:   2023-11-30 20:46:59 +00:00
-image: /images/test.png
+image: /images/IROS2023_msckf-dvio.png
 categories: research
 author: "Lin Zhao"
 authors: "<strong>Lin Zhao</strong>, Mingxi Zhou, Brice Loose"
