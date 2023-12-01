@@ -2,7 +2,7 @@
 layout: post
 title:  "Working toward the development of a generic marine vehicle framework: ROS-MVP"
 date:   2022-10-17 10:10:10 +00:00
-image: /images/OCEANS2022_mvp.pdf
+image: /images/OCEANS2022_mvp.png
 categories: research
 authors: "Emir Cem Gezer, Mingxi Zhou, <strong>Lin Zhao</strong>, William McConnell"
 venue: "OCEANS"

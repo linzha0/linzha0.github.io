@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Modifying an Affordable ROV for Under-ice Sensing"
+date:   2021-09-20 10:10:10 +00:00
+image: /images/OCEANS2021_glrc.png
+categories: research
+authors: "<strong>Lin Zhao</strong>, Mingxi Zhou, Brice Loose, Virginia Cousens, Raymond Turrisi"
+venue: "OCEANS"
+paper: /pdfs/zhao_glrc_2021.pdf
+---
+Freshwater ice data collection with multi-sensors (e.g., IMU, DVL, Stereo, FLS).
