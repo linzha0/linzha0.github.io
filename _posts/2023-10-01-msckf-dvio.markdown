@@ -4,8 +4,10 @@ title:  "Tightly-coupled Visual-DVL-Inertial Odometry for Robot-based Ice-water 
 date:   2023-10-01 10:10:10 +00:00
 image: /images/IROS2023_msckf-dvio.gif
 categories: research
-# authors: "<strong>Lin Zhao</strong>, Mingxi Zhou, Brice Loose"
-authors: <strong>Lin Zhao</strong>, <a href="https://soslab.wordpress.com/">Mingxi Zhou</a>, Brice Loose
+authors: 
+  <strong>Lin Zhao</strong>, 
+  <a href="https://soslab.wordpress.com/">Mingxi Zhou</a>, 
+  <a href="https://web.uri.edu/gso/meet/brice-loose/">Brice Loose</a>
 venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 paper: /pdfs/zhao_msckf-dvio_2023.pdf
 code: https://github.com/GSO-soslab/msckf_dvio
