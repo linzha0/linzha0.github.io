@@ -7,7 +7,7 @@ categories: research
 author: "Lin Zhao"
 authors: "<strong>Lin Zhao</strong>, Mingxi Zhou, Brice Loose"
 venue: "OCEANS"
-honer: student poster competition finalist
+honer: <font color="red"><strong>(student poster competition finalist)</strong></font> 
 paper: /pdfs/zhao_alaska_2022.pdf
 code: https://github.com/GSO-soslab/rov
 poster: /posters/2022_OCEANS_Alaska.pptx
