@@ -10,7 +10,7 @@ authors:
   <strong>Lin Zhao</strong>, 
   <a href="https://scholar.google.co.jp/citations?user=gy3jxbEAAAAJ&hl=en">William McConnell</a>
 venue: "OCEANS"
-paper: /pdfs/gezer_mvp_2022.pdf
+paper: /pdfs/Gezer-OCEANS-2022-MVP.pdf
 code: https://github.com/uri-ocean-robotics/mvp_mission
 ---
 The ROS-MVP framework provides three sub-modules: a low-level controller, plugin-based behavior interface, and a mission planner.

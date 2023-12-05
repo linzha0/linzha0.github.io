@@ -10,6 +10,6 @@ authors:
   <a href="https://www.researchgate.net/profile/Jordan-Beason/">Jordan Beason</a>,
   <a href="https://soslab.wordpress.com/">Mingxi Zhou</a>
 venue: "OCEANS"
-paper: /pdfs/gezer_mapping_2021.pdf
+paper: /pdfs/Gezer-OCEANS-2021-Mapping.pdf
 ---
 Riptide Micro-UUV and Bathyswath interferometric side-scan sonar integration. Sonar data processing for sub-map mapping.

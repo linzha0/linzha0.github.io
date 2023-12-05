@@ -9,6 +9,6 @@ authors:
   <a href="https://www.researchgate.net/profile/Jianguang-Shi">Jianguang Shi</a>,
   <strong>Lin Zhao</strong>
 venue: "IEEE/OES Autonomous Underwater Vehicles Symposium (AUV)"
-paper: /pdfs/zhou_cpp_2020.pdf
+paper: /pdfs/Zhou-AUV-2020-CPP.pdf
 ---
 We propose a new online CPP algorithm for a UUV equipped with an interferometric sonar for seafloor mapping.

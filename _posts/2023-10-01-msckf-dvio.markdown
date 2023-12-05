@@ -9,7 +9,7 @@ authors:
   <a href="https://soslab.wordpress.com/">Mingxi Zhou</a>, 
   <a href="https://web.uri.edu/gso/meet/brice-loose/">Brice Loose</a>
 venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
-paper: /pdfs/zhao_msckf-dvio_2023.pdf
+paper: /pdfs/Zhao-IROS-2023-MSCKF-DVIO.pdf
 code: https://github.com/GSO-soslab/msckf_dvio
 poster: /posters/2023_IROS_MSCKF-DVIO.pptx
 slides: /slides/2023_IROS_Slides_MSCKF-DVIO.pptx

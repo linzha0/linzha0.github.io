@@ -10,7 +10,7 @@ authors:
   <a href="https://web.uri.edu/gso/meet/brice-loose/">Brice Loose</a>
 venue: "OCEANS"
 honer: <font color="red"><strong>(Student Poster Competition Finalist)</strong></font> 
-paper: /pdfs/zhao_alaska_2022.pdf
+paper: /pdfs/Zhao-OCEANS-2022-Alaska.pdf
 code: https://github.com/GSO-soslab/rov
 poster: /posters/2022_OCEANS_Alaska.pptx
 ---

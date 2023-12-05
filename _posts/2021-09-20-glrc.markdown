@@ -11,6 +11,6 @@ authors:
   <a href="https://www.researchgate.net/profile/Virginia-Cousens">Virginia Cousens</a>,
   <a href="https://www.whoi.edu/profile/raymond.turrisi/">Raymond Turrisi</a>
 venue: "OCEANS"
-paper: /pdfs/zhao_glrc_2021.pdf
+paper: /pdfs/Zhao-OCEANS-2021-GLRC.pdf
 ---
 Freshwater ice data collection with multi-sensors (e.g., IMU, DVL, Stereo, FLS).
