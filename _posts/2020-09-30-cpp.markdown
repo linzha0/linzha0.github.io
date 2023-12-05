@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Towards the Development of an Online Coverage Path Planner for UUV-based Seafloor Survey using an Interferometric Sonar"
+date:   2020-09-30 10:10:10 +00:00
+image: /images/AUV2020_cpp.png
+categories: research
+authors: 
+  <a href="https://soslab.wordpress.com/">Mingxi Zhou</a>, 
+  <a href="https://www.researchgate.net/profile/Jianguang-Shi">Jianguang Shi</a>,
+  <strong>Lin Zhao</strong>
+venue: "IEEE/OES Autonomous Underwater Vehicles Symposium (AUV)"
+paper: /pdfs/zhou_cpp_2020.pdf
+---
+We propose a new online CPP algorithm for a UUV equipped with an interferometric sonar for seafloor mapping.
