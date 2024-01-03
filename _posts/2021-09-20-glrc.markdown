@@ -9,7 +9,7 @@ authors:
   <a href="https://soslab.wordpress.com/">Mingxi Zhou</a>, 
   <a href="https://web.uri.edu/gso/meet/brice-loose/">Brice Loose</a>,
   <a href="https://www.researchgate.net/profile/Virginia-Cousens">Virginia Cousens</a>,
-  <a href="https://www.whoi.edu/profile/raymond.turrisi/">Raymond Turrisi</a>
+  <a href="https://scholar.google.com/citations?user=PqIR97QAAAAJ&hl=en">Raymond Turrisi</a>
 venue: "OCEANS"
 paper: /pdfs/Zhao-OCEANS-2021-GLRC.pdf
 ---
