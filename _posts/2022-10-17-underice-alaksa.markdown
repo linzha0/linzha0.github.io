@@ -7,7 +7,7 @@ categories: research
 authors: 
   <strong>Lin Zhao</strong>, 
   <a href="https://soslab.wordpress.com/">Mingxi Zhou</a>, 
-  <a href="https://web.uri.edu/gso/meet/brice-loose/">Brice Loose</a>
+  <a href="https://scholar.google.com/citations?user=aSfI_ZYAAAAJ&hl=en">Brice Loose</a>
 venue: "OCEANS"
 honer: <font color="red"><strong>(Student Poster Competition Finalist)</strong></font> 
 paper: /pdfs/Zhao-OCEANS-2022-Alaska.pdf
