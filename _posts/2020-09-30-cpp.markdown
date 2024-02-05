@@ -2,7 +2,7 @@
 layout: post
 title:  "Towards the Development of an Online Coverage Path Planner for UUV-based Seafloor Survey using an Interferometric Sonar"
 date:   2020-09-30 10:10:10 +00:00
-image: /images/AUV2020_cpp.png
+image: /images/AUV2020_cpp.GIF
 categories: research
 authors: 
   <a href="https://soslab.wordpress.com/">Mingxi Zhou</a>, 
